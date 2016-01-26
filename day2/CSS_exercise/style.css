@@ -1,0 +1,97 @@
+* {
+	display:block;
+	margin:0 auto;
+}
+
+.big {
+	background-color: #F5F5F5;
+	width:45%;
+	margin-top:5%;
+	padding:2%;
+}
+
+.head {
+	height: 70px;
+	position:relative;
+	top:10px;
+	margin-bottom:5px;
+}
+
+.buttons-row {
+	margin-top:2px;
+}
+
+.little {
+	background-color: white;
+	width:85%;
+	padding-bottom:3%;
+
+}
+
+.user {
+	display:inline;
+	height: 20px;
+	margin:14px auto;
+	padding:0;
+}
+
+.bounty-text {
+
+	height: 20px;
+	margin:10px auto;
+	padding:0;
+	position:relative;
+	right:3%;
+}
+
+.avatar  {	
+	height: 45px;
+	
+}
+
+.icon {
+	height: 35px;
+	position:relative;
+	right:10%;
+}
+
+.dot {
+	height: 40px;
+}
+
+.money {
+	color:#F3AB4C;
+	font-size:1.1em;
+	position:relative;
+	left:70%;
+}
+
+.numbers {
+	color:#F3AB4C;
+	font-size:1.1em;
+	position:relative;
+	right:20px;
+}
+
+.comment {
+	color:#2889D8;
+	position:relative;
+	right:30%;
+	border-radius: 24px;
+    background-color:transparent;
+}
+
+.cool-text {
+	position:relative;
+	left:5%;
+	width:95%;
+
+}
+
+.now {
+	color:#F64F5A;
+}
+
+.posted {
+	display:inline;
+}
